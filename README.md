@@ -1,0 +1,1 @@
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge&logo=comptia&logoColor=white) ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
